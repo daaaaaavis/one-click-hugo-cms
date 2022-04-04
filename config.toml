@@ -1,2 +1,6 @@
+RelativeURLs=true
+CanonifyURLs=true
+
 languageCode = "en-us"
-title = "My New Netlify Victor Hugo Site"
+title = "Lasāmlapa"
+theme = "PaperMod"
